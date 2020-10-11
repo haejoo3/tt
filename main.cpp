@@ -4,6 +4,5 @@ using namespace std;
 
 int main (void) {
 	cout << "Test Program" << endl;
-	cout << "a" << endl;
-	cout << "b branch" << endl;
+	cout << "b" << endl;
 }
