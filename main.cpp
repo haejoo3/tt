@@ -4,5 +4,6 @@ using namespace std;
 
 int main (void) {
 	cout << "Test Program" << endl;
-	cout << "b" << endl;
+	cout << "a" << endl;
+	return 0;
 }
